@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como crear un blog
+title: Cómo crear un blog
 subtitle: Usando una plantilla para GitHub
 tags: [blog, github]
 author: TripleYei
