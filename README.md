@@ -1,2 +1,1 @@
-# tripleyei.github.io
-Startup 
+
